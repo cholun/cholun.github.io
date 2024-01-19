@@ -1,0 +1,180 @@
+/*思源黑*/
+@import url(https://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
+/*#general*/
+body {
+    font-family: 'Noto Sans TC', 'Open Sans', sans-serif;
+    background: #fbfbfb;
+    color: #222;
+    line-height: 1.7em;
+    font-size: 1.1em;
+}
+
+body ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    max-width: 700px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+    line-height: 1.3em;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.1em;
+    font-weight: 800;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #e6b800;
+}
+
+/*##navigation*/
+.navigation {
+    text-align: center;
+    padding: 30px 0 40px;
+}
+
+.header_title {
+    font-size: 3em;
+}
+
+.links {
+    font-size: 1em;
+}
+
+.links a {
+    padding: 0 1em;
+}
+
+.links ul li {
+    display: inline;
+}
+
+/*##post*/
+.post-content {
+    background: #fff;
+    margin: 0 0 5% 0;
+    padding: 0 30px;
+    overflow: hidden;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.01) 0px 0px 5px;
+    -moz-box-shadow: rgba(0, 0, 0, 0.01) 0px 0px 5px;
+    -webkit-box-shadow: rgba(0, 0, 0, 0.01) 0px 0px 5px;
+}
+
+.date-and-tags {
+    font-size: 0.7em;
+    color: #666666;
+}
+
+.date-and-tags li {
+    padding: 0 7px 0 0;
+    display: inline;
+}
+
+img {
+    display: block;
+    width: 700px;
+    margin: -18px 0 0 -29px;
+}
+
+.footnotes ol {
+    font-size: 0.8em;
+    line-height: 1em;
+    padding: 1px 20px;
+}
+
+/*##pagination*/
+.pagination {
+    font-size: 1.2em;
+    padding: 0 30px 40px;
+}
+
+.pagination ul li {
+    display: inline;
+}
+
+.past,
+.past-inactive {
+    float: left;
+}
+
+.present,
+.present-inactive {
+    float: right;
+}
+
+.past-inactive,
+.present-inactive {
+    opacity: 0;
+}
+
+/*##footer*/
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-size: 0.8em;
+}
+
+.footer ul li {
+    display: inline;
+}
+
+/*#archive list*/
+.archive-page {
+    padding: 0 30px;
+}
+
+.archive-page table {
+    padding: 0 0 40px 0;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.archive-page td {
+    text-align: left;
+    padding: 0 20px;
+    height: 50px;
+}
+
+.archive-page tr:nth-child(even) {
+    background-color: #fbfbfb;
+}
+
+/*#media screen*/
+@media screen and (max-width: 700px) {
+    
+.post-content {
+    padding: 0 2%;
+}
+
+img {
+    width: 100%;
+    margin: 0;
+    border-radius: 5px;
+}
+
+.archive-page {
+    padding: 0;
+}
+
+.archive-page td {
+    padding: 0;
+}
+
+}

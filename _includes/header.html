@@ -1,0 +1,19 @@
+<header class="navigation">
+    <div>
+        <h1 class="header_title">
+            <a href="{{ site.baseurl }}/">{{ site.title }}</a>
+        </h1>
+    </div>
+
+    <div class="links">
+        <ul>
+            {% for page in site.pages %}
+            {% unless page.exclude %}
+            {% if page.title %}
+            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+            {% endif %}
+            {% endunless %}
+            {% endfor %}
+        </ul>
+    </div><!--##end links-->
+</header>

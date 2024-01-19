@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="post-wrapper">
+    <article class="post-content">
+        {{ content }}
+
+        <ul class="date-and-tags">
+            <li>{{ page.date | date: '%F' }}</li>
+
+            {% for tags in page.tags %}
+            <li>#{{ tags }}</li>
+            {% endfor %}
+        </ul>
+    </article>
+</div>

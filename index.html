@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="home">
+
+    {% for post in paginator.posts %}
+    <div class="post-wrapper">
+        <article class="post-content">
+            {{ post.content }}
+
+            <ul class="date-and-tags">
+                <li>
+                    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: '%F' }}</a>
+                </li>
+
+                {% for tags in post.tags %}
+                <li>
+                    #{{ tags }}
+                </li>
+                {% endfor %}
+            </ul>
+        </article><!--post-content-->
+    </div><!--post-wrapper-->
+    {% endfor %}
+
+    <!-- Pagination links -->
+    <div class="pagination">
+        <ul>
+            <!--past-->
+            {% if paginator.next_page %}
+            <li class="past"><a href="{{ paginator.next_page_path }}">&#10216; past</a></li>
+            {% else %}
+            <li class="past-inactive">&#10216; past</li>
+            {% endif %}
+
+            <!--present-->
+            {% if paginator.previous_page %}
+            <li class="present"><a href="{{ paginator.previous_page_path }}">present &#10217;</a></li>
+            {% else %}
+            <li class="present-inactive">present &#10217;</li>
+            {% endif %}
+        </ul>
+    </div>
+</div>
