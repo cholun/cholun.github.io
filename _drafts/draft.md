@@ -5,4 +5,4 @@ date:   2024
 tags:
 - 
 ---
-![](/assets/media/.jpeg)
+![](/media/.jpeg)
