@@ -5,177 +5,148 @@
     <description>個人部落格，一個阿肥發廢文的地方。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 23 Feb 2024 10:33:14 +0800</pubDate>
-    <lastBuildDate>Fri, 23 Feb 2024 10:33:14 +0800</lastBuildDate>
+    <pubDate>Mon, 18 Mar 2024 15:57:50 +1300</pubDate>
+    <lastBuildDate>Mon, 18 Mar 2024 15:57:50 +1300</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
-        <title>ㄧ幻拉麵</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-22-ebisoba.jpeg&quot; alt=&quot;ㄧ幻拉麵&quot; /&gt;&lt;/p&gt;
+        <title>Harveys Bakehouse</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-14-Harveys-Bakehouse.jpeg&quot; alt=&quot;Harveys Bakehouse&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;原味湯頭配鮮蝦鹽味(NT$270)，加點炙燒厚切叉燒肉(NT$90)，還要加上10%的服務費。&lt;/p&gt;
-
-&lt;p&gt;麵好吃，蝦味湯頭剛喝覺得很特別，後來就還好。嚐鮮不錯啦。&lt;/p&gt;
+&lt;p&gt;好吃的卡士達麵包。在南島買的咖啡大都是NZ$5.5~NZ$6.5之間。點大杯的咖啡，大約是小七的中杯。&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/22/ebisoba.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/22/ebisoba.html</guid>
+        <pubDate>Thu, 14 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/14/Harveys-Bakehouse.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/14/Harveys-Bakehouse.html</guid>
         
-        <category>ㄧ幻拉麵</category>
+        <category>Harveys Bakehouse</category>
         
         
       </item>
     
       <item>
-        <title>Pokemon Center Taipei</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-22-Pokemon-Center-Taipei.jpeg&quot; alt=&quot;Pokemon Center Taipei&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;當月壽星可領取一張生日卡。買了一個沐浴球，還送一個應該是用於機台的卡帶。&lt;/p&gt;
+        <title>Tekapo Twizel Rd</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-13-Tekapo-Twizel-Rd.jpeg&quot; alt=&quot;Tekapo Twizel Rd&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Thu, 22 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/22/Pokemon-Center-Taipei.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/22/Pokemon-Center-Taipei.html</guid>
+        <pubDate>Wed, 13 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/13/Tekapo-Twizel-Rd.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/13/Tekapo-Twizel-Rd.html</guid>
         
-        <category>Pokemon Center Taipei</category>
+        <category>Tekapo Twizel Rd</category>
         
         
       </item>
     
       <item>
-        <title>不想待在媽媽肚子裡</title>
-        <description>&lt;p&gt;睡前給小肥看媽媽生產前夕大肚子的照片和產後小肥在媽媽懷裡的樣子，小肥看著看著悲從中來開始哭哭。還以爲是小肥感動生命誕生的神奇，結果小肥是因為不想待在媽媽的肚子裡而哭哭。哈～&lt;/p&gt;
+        <title>Oasis Restaurent</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-13-Oasis-Restaurent.jpeg&quot; alt=&quot;Oasis Restaurent&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;來南島吃了好幾次的漢堡，第一次點漢堡有附薯條。&lt;/p&gt;
 </description>
-        <pubDate>Wed, 21 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/21/murmur.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/21/murmur.html</guid>
+        <pubDate>Wed, 13 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/13/Oasis-Restaurent.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/13/Oasis-Restaurent.html</guid>
         
-        <category>murmur</category>
+        <category>Oasis Restaurent</category>
         
         
       </item>
     
       <item>
-        <title>Netnewswire</title>
-        <description>&lt;h1 id=&quot;netnewswire&quot;&gt;Netnewswire&lt;/h1&gt;
-
-&lt;p&gt;我是從Google Reader開始用RSS，後來Google Reader終止服務後相繼用過Feedly和Reeder。現在開Netnewswire&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;看RSS，偶爾還會打成Reeder，哈。&lt;/p&gt;
-
-&lt;p&gt;沒有閱讀的天份，時常看了長篇大論也不知道自己在看什麼，通常是標題、大綱掃一掃就翻頁惹。先前試著回去翻閱傳統的報紙、雜誌，但印刷的字體好小，不易閱讀。RSS很適合自己，有興趣的內文再點進去看即可。&lt;/p&gt;
-
-&lt;p&gt;Netnewswire吸引我的主要原因是開源，也就是免費仔辣。剛買iPhone時，跟風找一些潮潮的app來替代原生陽春的app。但我沒有大事業，更不是厲害的人，太複雜的功能也不會用。之後訂閱制盛行，也讓我這免費仔回到Apple原生app：mail, notes, calender和reminders都很夠我用。也有可能是自己轉性，懶得研究各項新潮的功能。Netnewswire很陽春，和印象中的Google Reader類似，而這也是我所需要的RSS閱讀器，穩定、速度快。&lt;/p&gt;
-
-&lt;p&gt;Brent Simmons在說明為何Netnewswire沒收費的文中&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;提及他開發的環境中大都是免費或贊助的服務，確切的成本大約一個月$10，是個很便宜的興趣。覺得頗有趣。&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://netnewswire.com&quot;&gt;https://netnewswire.com&lt;/a&gt; &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;&lt;a href=&quot;https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire.html&quot;&gt;https://inessential.com/2023/02/20/on_not_taking_money_for_netnewswire.html&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
+        <title>Cluden Hill Summit</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-13-Cluden-Hill-Summit.jpeg&quot; alt=&quot;Cluden Hill Summit&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Tue, 20 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/20/netnewswire.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/20/netnewswire.html</guid>
+        <pubDate>Wed, 13 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/13/Cluden-Hill-Summit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/13/Cluden-Hill-Summit.html</guid>
         
-        <category>open soure</category>
-        
-        <category>免費仔</category>
+        <category>Cluden Hill Summit</category>
         
         
       </item>
     
       <item>
-        <title>三山燒肉</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-17-sanshanyakiniku.jpeg&quot; alt=&quot;三山燒肉&quot; /&gt;&lt;/p&gt;
+        <title>Clay Cliffs</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-13-Clay-Cliffs.jpeg&quot; alt=&quot;Clay Cliffs&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;前幾天於過年期間吃屋馬，人潮兇猛，播放著快節奏的音樂，服務員也顯得頗匆忙。今天也許是平日的關係，人沒那麼擁擠。有記憶點的是安格斯去骨牛小排軟嫩多汁，很不錯。&lt;/p&gt;
+&lt;p&gt;明白鎮上的土石流車是怎麼回事。來Clay Cliffs會經過一段很長非鋪裝的道路，輪胎和車尾都沾滿沙土。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 17 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/17/sanshanyakiniku.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/17/sanshanyakiniku.html</guid>
+        <pubDate>Wed, 13 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/13/Clay-Cliffs.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/13/Clay-Cliffs.html</guid>
         
-        <category>三山燒肉</category>
+        <category>Clay Cliffs</category>
         
         
       </item>
     
       <item>
-        <title>嘉大昆蟲館</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-14-NCYU-Insect-Museum.jpeg&quot; alt=&quot;嘉大昆蟲館&quot; /&gt;&lt;/p&gt;
+        <title>Wanaka Tree</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-12-Wanaka-Tree.jpeg&quot; alt=&quot;Wanaka Tree&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 14 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/14/NCYU-Insect-Museum.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/14/NCYU-Insect-Museum.html</guid>
+        <pubDate>Tue, 12 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/12/Wanaka-Tree.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/12/Wanaka-Tree.html</guid>
         
-        <category>嘉大昆蟲館</category>
+        <category>Wanaka Tree</category>
         
         
       </item>
     
       <item>
-        <title>百樂冰淇淋</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-14-100happyicecream.jpeg&quot; alt=&quot;百樂冰淇淋&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;只收現金，據說冰淇淋仍舊是店家自己做的。我對冰淇淋沒什麼研究，吃不出所以然。小肥吃的很開心。&lt;/p&gt;
+        <title>Queenstown</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-11-Queenstown.jpeg&quot; alt=&quot;Queenstown&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Wed, 14 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/14/100happyicecream.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/14/100happyicecream.html</guid>
+        <pubDate>Mon, 11 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/11/Queenstown.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/11/Queenstown.html</guid>
         
-        <category>百樂冰淇淋</category>
+        <category>Queenstown</category>
         
         
       </item>
     
       <item>
-        <title>清境農場</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-11-CinJing-Farm.jpeg&quot; alt=&quot;清境農場&quot; /&gt;&lt;/p&gt;
+        <title>Hampshire Holiday Park Glendhu Bay</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-11-Hampshire-Holiday-Park-Glendhu-Bay.jpeg&quot; alt=&quot;Hampshire Holiday Park Glendhu Bay&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;過年期間清境農場人超多，停車場早已客滿，只好把車停回民宿再步行至農場。才一個早上，臉就被曬紅惹。&lt;/p&gt;
-
-&lt;p&gt;喂羊吃草，綿羊都直接把頭塞進飼料包裡狂嗑，飼料太少也懶得走來。運氣不錯，天氣很棒。&lt;/p&gt;
+&lt;p&gt;在這裡看到好幾次野生的兔子。小木屋內沒有衛浴設備和廚房，而環境真的不錯。&lt;/p&gt;
 </description>
-        <pubDate>Sun, 11 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/11/CinJing-Farm.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/11/CinJing-Farm.html</guid>
+        <pubDate>Mon, 11 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/11/Hampshire-Holiday-Park-Glendhu-Bay.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/11/Hampshire-Holiday-Park-Glendhu-Bay.html</guid>
         
-        <category>清境農場</category>
+        <category>Hampshire Holiday Park Glendhu Bay</category>
         
         
       </item>
     
       <item>
-        <title>台8線88km</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-10-台8線88km.jpeg&quot; alt=&quot;台8線88km&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;過年就是要俗，發發發啦～&lt;/p&gt;
+        <title>Crown Range Summit</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-11-Crown-Range-Summit.jpeg&quot; alt=&quot;Crown Range Summit&quot; /&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/10/%E5%8F%B08%E7%B7%9A88km.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/10/%E5%8F%B08%E7%B7%9A88km.html</guid>
+        <pubDate>Mon, 11 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/11/Crown-Range-Summit.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/11/Crown-Range-Summit.html</guid>
         
-        <category>台8線88km</category>
+        <category>Crown Range Summit</category>
         
         
       </item>
     
       <item>
-        <title>合歡山</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-02-10-HeHuanShan.jpeg&quot; alt=&quot;合歡山&quot; /&gt;&lt;/p&gt;
+        <title>Walter Peak BBQ</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-10-Walter-Peak-BBQ.jpeg&quot; alt=&quot;Walter Peak BBQ&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;上山途中，車子跳出警告：路面可能結冰。開了八年第一次遇到，覺得很新奇，不知道背後的機制為何。&lt;/p&gt;
+&lt;p&gt;豬肉烤得很酥脆，牛肉頗嫩；雞肉、羊肉就普通。有依桌號排隊拿餐，但還是有些許搶食的情況。排我後面的韓國歐吉桑貼很近、爭著拿餐，有點討厭。&lt;/p&gt;
 
-&lt;p&gt;松雪樓外的溫度計顯示0度Ｃ，難得聽到小肥喊冷。小肥洗到冰冷的水還哭哭，之後洗手都會先問有沒有溫溫水，哈。&lt;/p&gt;
+&lt;p&gt;本來是想再多吃點肉，可是這盤吃完也差不多了。後來一直拿冰棋淋，覺得冰棋淋很好吃。&lt;/p&gt;
 </description>
-        <pubDate>Sat, 10 Feb 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/02/10/HeHuanShan.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/02/10/HeHuanShan.html</guid>
+        <pubDate>Sun, 10 Mar 2024 00:00:00 +1300</pubDate>
+        <link>http://localhost:4000/2024/03/10/Walter-Peak-BBQ.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/10/Walter-Peak-BBQ.html</guid>
         
-        <category>合歡山</category>
+        <category>Walter Peak BBQ</category>
         
         
       </item>
