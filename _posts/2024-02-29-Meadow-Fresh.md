@@ -7,4 +7,4 @@ tags:
 ---
 ![Meadow Fresh](/media/2024-02-29-Meadow-Fresh.jpeg)
 
-覺得牛奶的不如預期，還是我被化工慣壞了。
+牛奶的味道不如預期，還是我被化工慣壞了。
