@@ -5,8 +5,8 @@
     <description>個人部落格，一個阿肥發廢文的地方。</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Mar 2024 13:50:05 +0800</pubDate>
-    <lastBuildDate>Mon, 25 Mar 2024 13:50:05 +0800</lastBuildDate>
+    <pubDate>Wed, 27 Mar 2024 14:44:47 +0800</pubDate>
+    <lastBuildDate>Wed, 27 Mar 2024 14:44:47 +0800</lastBuildDate>
     <generator>Jekyll v4.3.3</generator>
     
       <item>
@@ -29,6 +29,23 @@
         <guid isPermaLink="true">http://localhost:4000/2024/03/24/PIN-code.html</guid>
         
         <category>PIN code</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>KKday Spark NZ</title>
+        <description>&lt;h1 id=&quot;kkday-spark-nz&quot;&gt;KKday Spark NZ&lt;/h1&gt;
+
+&lt;p&gt;在KKday上買1GB/日的esim，天數為25日，價格為NT$1,318。看線路走的是Spark NZ。&lt;/p&gt;
+
+&lt;p&gt;主觀覺得收訊不好，城鎮間時常無訊號，連在Queenstown的Arthurs Point還需橋位置才勉強有收訊。網路速度也頗慢，開個Google Maps也容易卡。我想一天兩人的用量應該沒有300MB吧。&lt;/p&gt;
+
+&lt;p&gt;其實南島許多住宿的地方網路也很慢，備份照片到icloud都跑不動。或許是地廣人稀的緣故所以網路不快，但下次去我應該會換別家試試。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 22 Mar 2024 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2024/03/22/KKday-Spark-NZ.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2024/03/22/KKday-Spark-NZ.html</guid>
         
         
       </item>
@@ -171,21 +188,6 @@
         <guid isPermaLink="true">http://localhost:4000/2024/03/15/Christchurch-Hospital.html</guid>
         
         <category>Christchurch Hospital</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Harveys Bakehouse</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/media/2024-03-14-Harveys-Bakehouse.jpeg&quot; alt=&quot;Harveys Bakehouse&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;好吃的卡士達麵包。在南島買的咖啡大都是NZ$5.5~NZ$6.5之間。點大杯的咖啡，大約是小七的中杯。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 14 Mar 2024 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2024/03/14/Harveys-Bakehouse.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2024/03/14/Harveys-Bakehouse.html</guid>
-        
-        <category>Harveys Bakehouse</category>
         
         
       </item>
